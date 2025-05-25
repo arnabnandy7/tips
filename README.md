@@ -1266,3 +1266,5 @@ git config --global core.autocrlf false
 
 <!-- Don’t remove or change the comment below – that can break automatic updates. More info at <http://npm.im/doxie.inject>. -->
 <!-- @doxie.inject end -->
+
+<!-- GitAds-Verify: SDDN21N8F2YQXFMUDVIFWL77UDVV3ZSW -->
